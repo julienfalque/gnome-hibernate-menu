@@ -1,0 +1,10 @@
+{
+  "name": "Hibernate Menu",
+  "description": "A GNOME extension that adds a system menu entry to hibernate.",
+  "uuid": "hibernate-menu@julienfalque",
+  "url": "https://github.com/julienfalque/gnome-hibernate-menu",
+  "gettext-domain": "hibernate-menu",
+  "shell-version": [
+    "46"
+  ]
+}

@@ -1,0 +1,5 @@
+/dist/
+/locale/
+/node_modules/
+/extension.js
+/hibernate-menu@julienfalque.shell-extension.zip

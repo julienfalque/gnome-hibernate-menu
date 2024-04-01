@@ -1,0 +1,19 @@
+{
+  "name": "hibernate-menu-extension",
+  "version": "1.0.0",
+  "description": "A GNOME extension that adds a menu item to hibernate",
+  "type": "module",
+  "private": true,
+  "author": "Julien Falque",
+  "license": "MIT",
+  "sideEffects": false,
+  "devDependencies": {
+    "eslint": "^8.56",
+    "eslint-plugin-jsdoc": "^48.0",
+    "typescript": "^5.3"
+  },
+  "dependencies": {
+    "@girs/gjs": "^3.2",
+    "@girs/gnome-shell": "^45.0.0-beta8"
+  }
+}
